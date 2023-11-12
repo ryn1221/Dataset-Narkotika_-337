@@ -7,6 +7,6 @@ Dataset yang kami dapatkan diperoleh dari hasil scraping data melalui website Di
 * Task 1: Dataset Narkotika Hasil Scraping
 * Task 2: Overview
 # ⚖️ Dataset Narkotika Hasil Scraping
-Hasil dari dataset ini berupa PDF, didapatkan sebanyak 57 PDF
+Hasil dari dataset ini berupa PDF, didapatkan sebanyak 118 PDF
 
 # 📖 Overview
