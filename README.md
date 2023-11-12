@@ -10,3 +10,4 @@ Dataset yang kami dapatkan diperoleh dari hasil scraping data melalui website Di
 Hasil dari dataset ini berupa PDF, didapatkan sebanyak 118 PDF
 
 # 📖 Overview
+Overview adalah hasil olahan dari Scraping. Pada Overview ini terdapat 4 hasil yang dimunculkan, antara lain : nomor putusan, Pengadilan Negeri Medan, amar putusan, dan barang bukti.
